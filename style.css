@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+div > .table{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(236, 244, 246, 0.308);
+    /* background-color: red; */
+}
+
+nav img{
+    width: 120px;
+    height: 90px;
+    filter:  invert(1);
+}
+
+.navbar-brand{
+    font-family: 'Island Moments', cursive;
+    
+
+}
+.multicolortext {
+    background-image: linear-gradient(to left, violet,  cyan, blue, yellow, red);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+font-size: 3.5rem;
+  }
+
+  
